@@ -52,3 +52,4 @@ function printLable2(labelledobj) {
 }
 let myobj2 = { size: 10, label: "Size 20 object" };
 printLable2(myobj2);
+//可选属性
